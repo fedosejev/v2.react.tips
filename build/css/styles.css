@@ -76,6 +76,8 @@ a:hover {
   .post-page a:hover {
     color: #666;
     text-decoration: none; }
+  .post-page #disqus_thread {
+    margin-top: 20px; }
 
 .header {
   margin: 20px 0;
