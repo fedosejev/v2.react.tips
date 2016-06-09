@@ -26,7 +26,8 @@ a:hover {
   .landing-page .posts li {
     font-size: 20px;
     text-align: left;
-    margin: 0 20px; }
+    margin: 0 20px;
+    line-height: 36px; }
     .landing-page .posts li .fa {
       color: #bbb;
       margin-right: 10px; }
@@ -37,7 +38,7 @@ a:hover {
     font-weight: bold;
     margin: 20px 0 40px 0; }
   .post-page img {
-    width: 100%; }
+    max-width: 100%; }
   .post-page blockquote {
     margin: 40px 0; }
   .post-page p {
