@@ -1,2 +1,3 @@
-# react.tips
-React.Tips website source code.
+# React.Tips website source code.
+
+http://react.tips
