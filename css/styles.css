@@ -113,6 +113,7 @@ a:hover {
   .footer aside .book-cover {
     display: inline-block;
     margin: 0 20px;
+    margin-bottom: 20px;
     vertical-align: top; }
     .footer aside .book-cover img {
       width: 200px; }
