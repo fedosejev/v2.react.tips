@@ -32,6 +32,13 @@ a:hover {
       color: #cecece;
       margin-right: 10px; }
 
+.landing-page aside .book-cover {
+  display: inline-block;
+  margin: 0 20px;
+  vertical-align: top; }
+  .landing-page aside .book-cover img {
+    width: 200px; }
+
 .post-page {
   font-size: 20px; }
   .post-page h1 {
@@ -107,6 +114,6 @@ a:hover {
   color: #aaa;
   text-align: left; }
   .footer p {
-    margin: 0 20px; }
+    margin: 0 20px 20px 20px; }
   .footer a {
     color: #555; }
