@@ -28,6 +28,8 @@ a:hover {
     text-align: left;
     margin: 0 20px;
     line-height: 42px; }
+    .landing-page .posts li:hover .fa {
+      color: #333; }
     .landing-page .posts li .fa {
       color: #cecece;
       margin-right: 10px; }
